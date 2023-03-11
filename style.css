@@ -1,0 +1,15 @@
+#anchor{
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    font-family: sans-serif;
+    margin:10px;
+    background-color: rgb(86, 85, 85);
+}
+.heading{
+    font-size:32px ;
+    margin-bottom: 60px;
+}
+canvas{
+    box-shadow: 10px,10px,10px,black;
+    border-radius:10px ;
+}
